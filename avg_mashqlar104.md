@@ -1,5 +1,3 @@
----
-
 ## **1. upper() – 8 ta**
 
 1. Berilgan `"hello python 3.12"` satrida faqat harflarni `upper()` qilib, raqam va bo'sh joylarni o'zgartirmasdan chiqaruvchi ifoda yozing.
